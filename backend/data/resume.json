@@ -1,0 +1,105 @@
+{
+  "name": "Anik Sarkar",
+  "title": "Full-Stack Developer",
+  "email": "anik@example.com",
+  "phone": "+91-XXXXXXXXXX",
+  "location": "India",
+  "linkedin": "https://linkedin.com/in/aniksarkar",
+  "github": "https://github.com/aniksarkar",
+  "portfolio_url": "https://anik-portfolio.vercel.app",
+
+  "summary": "Passionate Full-Stack Developer with hands-on experience building production-grade web applications using React, Next.js, Node.js, and Python. Strong foundation in data structures, algorithms, and system design. Enthusiastic about AI/ML integration and cloud-native architectures. Quick learner who thrives in fast-paced environments.",
+
+  "skills": {
+    "languages": ["JavaScript", "TypeScript", "Python", "Java", "C++", "SQL"],
+    "frontend": ["React.js", "Next.js", "Tailwind CSS", "HTML5", "CSS3", "Redux", "Framer Motion"],
+    "backend": ["Python", "FastAPI", "Node.js", "Express.js", "REST APIs", "GraphQL"],
+    "databases": ["PostgreSQL", "MongoDB", "Redis", "Supabase", "Firebase"],
+    "devops": ["Docker", "Git", "GitHub Actions", "Vercel", "AWS (basics)", "Linux"],
+    "ai_ml": ["LangChain", "RAG", "Prompt Engineering", "TensorFlow (basics)", "OpenAI API", "Gemini API"],
+    "tools": ["VS Code", "Postman", "Figma", "Jira"]
+  },
+
+  "experience": [
+    {
+      "role": "Full-Stack Developer Intern",
+      "company": "XYZ Tech Solutions",
+      "location": "Remote",
+      "duration": "June 2025 - August 2025",
+      "bullets": [
+        "Built a customer dashboard using React and Python/FastAPI serving 500+ daily active users",
+        "Implemented JWT-based authentication and role-based access control",
+        "Reduced API response time by 40% through query optimization and Redis caching",
+        "Participated in daily standups and sprint planning in an Agile team of 8"
+      ]
+    }
+  ],
+
+  "projects": [
+    {
+      "name": "AI Portfolio",
+      "description": "An AI-powered portfolio website that replaces traditional portfolios. Recruiters chat with an AI clone that answers questions as if it is the real candidate. Built with React, FastAPI, Gemini API, and RAG over resume data.",
+      "tech_stack": ["React", "FastAPI", "Python", "Gemini API", "Tailwind CSS", "RAG", "Vercel"],
+      "highlights": [
+        "Engineered a RAG pipeline that chunks resume data, generates embeddings, and retrieves relevant context for each query",
+        "Designed a persona engine with a carefully crafted system prompt achieving natural first-person responses",
+        "Implemented streaming chat responses with SSE and real-time typing animation",
+        "Added voice input/output using Web Speech API for a conversational experience",
+        "Built analytics dashboard tracking visitor questions and conversation patterns"
+      ],
+      "github": "https://github.com/aniksarkar/ai-portfolio",
+      "live_url": "https://anik-portfolio.vercel.app"
+    },
+    {
+      "name": "E-Commerce Platform",
+      "description": "A full-stack e-commerce platform with product catalog, cart, Stripe checkout, and admin dashboard.",
+      "tech_stack": ["React", "Python", "FastAPI", "PostgreSQL", "Stripe API", "Redux"],
+      "highlights": [
+        "Implemented product search with filters, sorting, and pagination",
+        "Integrated Stripe payment gateway with webhook handling",
+        "Built admin panel for inventory management with CRUD operations",
+        "Achieved 95+ Lighthouse performance score"
+      ],
+      "github": "https://github.com/aniksarkar/ecommerce",
+      "live_url": ""
+    }
+  ],
+
+  "education": [
+    {
+      "degree": "Bachelor of Technology in Computer Science",
+      "institution": "XYZ University",
+      "year": "2021 - 2025",
+      "gpa": "8.5/10",
+      "highlights": ["Data Structures & Algorithms", "Operating Systems", "Database Management", "Machine Learning"]
+    }
+  ],
+
+  "certifications": [
+    "AWS Cloud Practitioner (in progress)",
+    "Meta Front-End Developer Certificate"
+  ],
+
+  "strengths": [
+    "Quick learner — picked up FastAPI and deployed a production app within 2 weeks",
+    "Strong problem solver — 500+ DSA problems solved on LeetCode",
+    "Team player — led a 4-person team for my final year project",
+    "Clear communicator — regularly write technical blogs and documentation",
+    "Adaptable — comfortable switching between frontend, backend, and DevOps tasks"
+  ],
+
+  "weaknesses": [
+    "Sometimes I spend too much time perfecting code quality when shipping fast matters more. I am actively working on balancing speed with quality by setting time-boxes for tasks.",
+    "I am still building depth in system design for large-scale distributed systems. I am studying it through books like Designing Data-Intensive Applications and building projects that force me to think about scale."
+  ],
+
+  "fun_facts": [
+    "I once built a Discord bot that managed a 2000-member gaming community",
+    "I enjoy solving Rubik's cubes — my best time is under 2 minutes",
+    "I contribute to open-source projects on weekends"
+  ],
+
+  "salary_expectation": "I am flexible and open to discussing compensation based on the role and growth opportunities.",
+  "availability": "Immediately available to join",
+  "preferred_work_mode": "Open to remote, hybrid, or on-site — whatever works best for the team"
+}
